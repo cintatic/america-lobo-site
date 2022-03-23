@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/terminos-condiciones", {data:[{_img:{"/america-lobo-site/_ipx/f_webp/img/logos/Logo-al.png":"\u002Famerica-lobo-site\u002F_nuxt\u002Fimage\u002Fb30add.webp"}}],fetch:{},mutations:void 0});
