@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/nosotros", {data:[{_img:{"/america-lobo-site/_ipx/f_webp/img/logos/Logo-al.png":"\u002Famerica-lobo-site\u002F_nuxt\u002Fimage\u002Fb30add.webp","/america-lobo-site/_ipx/f_webp/img/familia.png":"\u002Famerica-lobo-site\u002F_nuxt\u002Fimage\u002F5e5e5e.webp"}}],fetch:{},mutations:void 0});
