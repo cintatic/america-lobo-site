@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/contacto", {data:[{_img:{"/_ipx/f_webp/img/logos/Logo-al.png":"\u002F_nuxt\u002Fimage\u002F644806.webp"}}],fetch:{},mutations:void 0});
